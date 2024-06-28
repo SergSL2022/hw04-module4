@@ -6,6 +6,8 @@
 
 
 ### 2. Build docker image with this script
+![alt text](<screenshots/2/Знімок екрана з 2024-06-29 02-12-39.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-06-29 02-14-13.png>)
 
 
 ### 3. Push it to public registry
