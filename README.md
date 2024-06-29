@@ -20,7 +20,8 @@
 
 
 ### 4. Create deployment with this image and 2-3 replicas
-
+![alt text](<screenshots/4/Знімок екрана з 2024-06-29 03-33-06.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-06-29 03-40-10.png>)
 
 ### 5. Create LadBalancer service
 

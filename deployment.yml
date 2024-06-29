@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hostname-webserver
+  namespace: slipchuk
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: hostname-webserver
+  template:
+    metadata:
+      labels:
+        app: hostname-webserver
+    spec:
+      containers:
+      - name: hostname-webserver
+        image: serhiyslipchuk/get-container-id:v1
+        ports:
+        - containerPort: 80
