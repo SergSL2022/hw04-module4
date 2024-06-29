@@ -11,6 +11,12 @@
 
 
 ### 3. Push it to public registry
+![alt text](<screenshots/3/Знімок екрана з 2024-06-29 02-18-21.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-06-29 02-18-37.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-06-29 02-21-17.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-06-29 03-18-58.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-06-29 03-23-19.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-06-29 03-23-54.png>)
 
 
 ### 4. Create deployment with this image and 2-3 replicas
