@@ -24,6 +24,11 @@
 ![alt text](<screenshots/4/Знімок екрана з 2024-06-29 03-40-10.png>)
 
 ### 5. Create LadBalancer service
-
+![alt text](<screenshots/5/Знімок екрана з 2024-06-29 16-04-23.png>)
+![alt text](<screenshots/5/Знімок екрана з 2024-06-29 16-05-10.png>)
 
 ### 6. Open LB domain and confirm that you see different hostnames
+![alt text](<screenshots/6/Знімок екрана з 2024-06-29 16-10-26.png>)
+![alt text](<screenshots/6/Знімок екрана з 2024-06-29 16-10-36.png>)
+![alt text](<screenshots/6/Знімок екрана з 2024-06-29 16-10-45.png>)
+![alt text](<screenshots/6/Знімок екрана з 2024-06-29 16-09-33.png>)
